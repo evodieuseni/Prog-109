@@ -13,7 +13,7 @@ left:0px;
 padding:10px;
 margin:0px;
 width:100%;
-background-color:#62C2CE;
+background-color:#F0E68C;
 text-align:center;
 z-index:10;
 font-family: 'JustLettersMedium';
@@ -59,6 +59,6 @@ float:left;
 #footer{
   padding-top: 10px;
   margin-top: 10px;
-  background-color:#62C2CE;
+  background-color:#F0E68C;
   text-align: center;
 }
