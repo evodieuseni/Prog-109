@@ -77,9 +77,9 @@ float:left;
 #footer{
   border:solid 1px;
   padding: 10px;
-  margin:0px;
-  width: 100%;
-  background-color:#FFFACD;
+  margin-top:10p%;
+  margin-bottom: 10%;
+  background-color:FFFACD;
   text-align: center;
 }
 
