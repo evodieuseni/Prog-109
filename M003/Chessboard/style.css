@@ -5,6 +5,11 @@ html, body{
 
 body {
 background-color: #F0E68C;
+  margin: 0;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
 #title {
 position:fixed;
