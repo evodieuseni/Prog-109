@@ -38,7 +38,8 @@ p {
   margin-top: 5%;
   margin-left: auto;
   margin-right: auto;
- padding-bottom:77px;
+  border: 20px solid #a0522d;
+  padding-bottom:77px;
 }
 
 .row{
