@@ -19,6 +19,7 @@ body {
   font-weight: normal;
   font-style: normal;
   font-size: 36px;
+  background-color:#FFFACD;
   color: black;
 }
 .h1-style {
@@ -67,6 +68,6 @@ float:left;
 #footer{
   padding-top: 10px;
   margin-top: 10px;
-  font-family: "RussischSansRegular";
+  background-color: #FFFACD;
   text-align: center;
 }
