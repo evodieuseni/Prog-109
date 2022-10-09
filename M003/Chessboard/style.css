@@ -75,10 +75,11 @@ float:left;
   clear:both;
 }
 #footer{
-  top: 10px;
-  border: solid 1px;
-  padding: 15px;
-  margin: -4px;
-  bottom: auto;
+  border:solid 1px;
+  padding: 10px;
+  margin:0px;
+  width: 100%;
+  background-color:#FFFACD;
+  text-align: center;
 }
 
