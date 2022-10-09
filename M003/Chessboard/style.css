@@ -12,31 +12,40 @@ body {
 
 }
 #title {
-position:fixed;
-top:0px;
-left:0px;
-padding:10px;
-margin:0px;
-width:100%;
-background-color:#F0E68C;
-text-align:center;
-z-index:10;
-font-family: 'JustLettersMedium';
-font-weight: normal;
-font-style: normal;
-font-size:36px;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  padding: 10px;
+  margin: 0px;
+  width: 100%;
+  text-align: center;
+  z-index: 10;
+  font-family: "RussischSansRegular";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 36px;
+  background-color: #a0522d;
+  color: black;
 }
+.h1-style {
+  border: solid 3px;
+  padding: 10px;
+  margin: 10px;
+  background-color: brown;
+}
+
 p {
    font-family: 'FPLNeuRegular';
    font-weight: normal;
    font-style: normal;
 }
 
-#container{
-  margin-top: 20%;
-  margin-left:10%;
-  margin-right: 10%;
-  margin-bottom: 5%;
+#container {
+  margin-top: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 20px solid #a0522d;
+ padding-bottom:77px;
 }
 
 .row{
