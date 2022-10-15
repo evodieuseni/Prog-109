@@ -31,13 +31,13 @@ body
  
 }
 .column1{
-    background-color: yellow;
+    background-color: #FFFF00;
 }
 .column2{
-    background-color:burlywood;
+    background-color:#D2B48C;
 }
 .column3{
-    background-color:lawngreen;
+    background-color:#00FF7F;
 }
 
 .column3
@@ -67,7 +67,7 @@ li
 }
 
 #feature {
- background-color: hotpink;
+ background-color: #FF69B4;
  background-image: url("https://www.freepnglogos.com/uploads/cookie-png/chocolate-cookie-png-transparent-image-pngpix-25.png");
  background-size:contain;
  background-position: right;
