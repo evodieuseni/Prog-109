@@ -30,6 +30,15 @@ body
 	margin: 1%;
  
 }
+.column1{
+    background-color: yellow;
+}
+.column2{
+    background-color:burlywood;
+}
+.column3{
+    background-color:lawngreen;
+}
 
 .column3
 {
@@ -50,15 +59,15 @@ li
    background-color:#AFEEEE;
 	padding: 0.5em 0; 
 }
-#feature, .article 
+#feature, .article ,.column1,.column2,.column3
 {
 	height: 10em;
 	margin-bottom: 1em;
-	background-color: #DDA0DD;
+	//background-color: #DDA0DD;
 }
 
 #feature {
- background-color: #FF69B4;
+ background-color: hotpink;
  background-image: url("https://www.freepnglogos.com/uploads/cookie-png/chocolate-cookie-png-transparent-image-pngpix-25.png");
  background-size:contain;
  background-position: right;
