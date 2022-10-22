@@ -38,7 +38,7 @@ h1 {
 	padding: 20px;
 	margin: 70px auto 10px auto;
 	width: 250px;
-	text-align: center;}
+	}
 
 #blackboard {
 	background-color: #425a5a;
@@ -48,4 +48,4 @@ h1 {
 	margin: 0px auto;
 	height: 370px;
 	width: 600px;
-	text-align: center;}
+	}
