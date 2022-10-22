@@ -8,6 +8,8 @@ body {
 h1 {
     background-image: url(https://javascriptbook.com/code/c04/images/bullseye-logo.png);
     background-repeat: no-repeat;
+    background-size:contain;
+    background-position: right;
     text-indent: 100%;
     white-space: nowrap;
     overflow: hidden;
