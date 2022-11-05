@@ -19,7 +19,7 @@ body{
 .warning {
     color:#00008B;
     font-style: italic;
-    font-weight:200px;
+    font-weight:200;
 }
 
 input[type=text], select, textarea {
@@ -50,6 +50,6 @@ input[type=text], select, textarea {
   .p-style{
     font-style: oblique;
     text-decoration: dashed;
-    font-weight: 400px;
+    font-weight: 400;
     
   }
