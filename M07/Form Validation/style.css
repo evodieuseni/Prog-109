@@ -1,14 +1,14 @@
 body{
-    background-color: lightgreen;
+    background-color: #90EE90;
     border-radius: 50px;
-    border: 10px solid yellowgreen;
+    border: 10px solid #9ACD32;
     box-sizing: border-box;
     padding-left: 15%;
     padding-right: 15%;
 }
 .ty-body{
-    background-color: lightgreen;
-    border: 10px solid yellowgreen;
+    background-color: #90EE90;
+    border: 10px solid #9ACD32;
     box-sizing: border-box;
     padding-left: 15%;
     padding-right: 15%;
@@ -17,7 +17,7 @@ body{
 
 }
 .warning {
-    color:darkblue;
+    color:#00008B;
     font-style: italic;
     font-weight:200px;
 }
@@ -25,7 +25,7 @@ body{
 input[type=text], select, textarea {
     width: 100%;
     padding: 12px;
-    border: 1px solid black;
+    border: 1px solid #000000;
     border-radius: 4px;
     box-sizing: border-box;
     margin-top: 6px;
@@ -35,8 +35,8 @@ input[type=text], select, textarea {
   }
 
   input[type=submit] {
-    background-color: darkgoldenrod;
-    color: white;
+    background-color: #B88600;
+    color: #FFFF0F;
     padding: 12px 20px;
     border: none;
     border-radius: 4px;
