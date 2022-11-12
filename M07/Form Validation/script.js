@@ -190,7 +190,7 @@ function password() {
 
     //3) Do validation
     if (!password.match(checkPassword) || password.length > 7) {
-        errorMessages += "<p>Your Password requires 1 upper-case, 1 lower-case, 1 numeric or more, 1 special character and cannot be greater than 7 characters</p>";
+        errorMessages += "<p>Your Password requires 1 upper-case, 1 lower-case, 1 numeric or more, 1 special character and cannot be greater than 7 characters. Here is an example of a valid password:Dogg@68</p>";
         console.log("Password invalid — length")
     }
     else {
