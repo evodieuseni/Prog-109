@@ -9,10 +9,9 @@ for (index = element.length - 1; index >= 0; index--) {
 
 // Let us stop the propagation of events
 
-
+event.stopPropagation();
   });
   addEventListener("click", function(event) {
-      event.stopPropagation();
     var dot = document.createElement("div");
     dot.className = "dot";
     dot.style.left = (event.pageX - 4) + "px";
