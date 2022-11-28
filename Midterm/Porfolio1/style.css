@@ -20,7 +20,7 @@ a:hover { color: #880000; }
 color:#FAFAD2;
   font-size: 30px;
   font-style: italic;
-  text-align: center;
+  align-items: center;
   font-family:cursive;
   padding-left: 30%;
   animation-duration: 3s;
