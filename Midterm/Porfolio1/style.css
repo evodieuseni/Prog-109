@@ -23,6 +23,8 @@ color:#FAFAD2;
   align-items: center;
   font-family:cursive;
   padding-left: 30%;
+  animation-duration: 3s;
+  animation-name: slidein;
 }
 .style-p2{
     border: 2px solid rgba(255, 0, 0, 0);
