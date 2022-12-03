@@ -1,16 +1,20 @@
 var myImages = 
  [
   
-"https://user-images.githubusercontent.com/114317977/202786371-1ad040c6-5d9d-4e1d-9b9c-98e1b5e3dc02.JPG",
+"https://user-images.githubusercontent.com/114317977/205435821-d284335b-cea5-4ef8-965d-d9ea5ca7e94a.JPG",
 
-"https://user-images.githubusercontent.com/114317977/202786343-71a51f5d-2c09-433a-8b90-97120606bd04.JPG",
+"https://user-images.githubusercontent.com/114317977/205435837-f3e7a032-2f62-4a3b-a8fd-3e932a85bf9d.JPG",
   
      
-"https://user-images.githubusercontent.com/114317977/202786178-467f6c9f-292c-4c49-a5a3-aa9a377f3f21.JPG",
+"https://user-images.githubusercontent.com/114317977/205435845-9a883e90-dedb-4c37-9b80-ab1c1158cd6d.JPG",
   
-  "https://user-images.githubusercontent.com/114317977/202807096-ce4437e5-4b37-4a94-8a11-9094071a5ba3.JPG",
+  "https://user-images.githubusercontent.com/114317977/205435889-04e1b5d8-a5e0-41b7-8616-a4693beb8c90.JPG",
   
-  "https://user-images.githubusercontent.com/114317977/202786327-711ccace-75f4-46fc-a7b2-c9bbae098889.JPG",
+  "https://user-images.githubusercontent.com/114317977/205435897-ffc5866d-48c3-49a3-8d8a-84aa8408ff32.JPG",
+  
+  "https://user-images.githubusercontent.com/114317977/205435935-b4d5265d-64ae-4938-97c2-977c3eb1fd03.JPG",
+  
+  "https://user-images.githubusercontent.com/114317977/205435943-26811176-f4c6-4108-852e-dfa414dbdadd.JPG",
   
  
 
@@ -18,7 +22,7 @@ var myImages =
  ];
 
 
-var captionImages =["Webpage","Resume","Chessboard","Rhombus","Form Validation"];
+var captionImages =["Home","About","Coursework","Artifact","Module Assignment", "Contact Me", "My Creative Pge"];
 
  var index=0; 
 
