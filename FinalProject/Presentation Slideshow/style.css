@@ -1,0 +1,20 @@
+body 
+{
+	width: 90%;
+	margin: 0 auto;
+    background-image: url("https://cdn.pixabay.com/photo/2017/06/04/18/14/marble-2371776__340.jpg");
+    background-size: contain;
+    background-repeat:repeat;
+    background-position: center;
+    text-align: center;
+  
+}
+h1{
+   
+	background-repeat: no-repeat;
+	background-position: center center;
+	text-align: center;
+    color: brown;
+   
+	 
+}
