@@ -189,20 +189,17 @@ function password() {
     var errorMessages = "";
 
     //3) Do validation
-    if (!password.match(checkPassword) || password.length > 7) {
-        errorMessages += "<p>Your Password requires 1 upper-case, 1 lower-case, 1 numeric or more, 1 special character and cannot be greater than 7 characters. Here is an example of a valid password:Dogg@68</p>";
-        console.log("Password invalid — length")
+    if (myContact.password.value.length > 7 ||
+        myContact.password.value === null ||
+        myContact.password.value === "" ||
+        !myContact.password.value.match(passwordformat)){
+
+        myContact.password.focus();
+        errorMessages += "<p>The password must be less than 7 characters and it is required. Password requires 1 upper-case, 1 lower-case, 1 numeric, 1 special character.</p>";
     }
-    else {
+
+    else
         validPassword = true;
-        console.log("valid Password")
-    };
-    //4) Send error message to HTML
-
-    document.getElementById("password").innerHTML = errorMessages;
-
-    //5) return status of each field
-    return (validPassword);
 };
 
 /*-----------------------Address---------------------------------------*/
